@@ -25,7 +25,7 @@
 				</div>	
 
 				<div class="col-sm-offset-0 col-sm-7 payment-form">
-				 <form name="contactform" method="post" action="#">
+				 <form name="contactform" method="post" action="">
 					<div class="box-body">
 						<br/>
 						<div class="form-group">
@@ -86,7 +86,9 @@
 								<div class="col-lg-9">	
 									<input class="btn btn-default btn-flat" type="submit" name="submit" onclick="return validateform();" value="SUBMIT"/>
 								</div>
-							</div>
+						</div>
+
+							<input type="hidden" name="_token" value="{{ csrf_token() }}">
 						</form>
 						</div>
 				</div>

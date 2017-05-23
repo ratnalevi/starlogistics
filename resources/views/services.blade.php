@@ -1,7 +1,7 @@
 @extends('layout')
 
-@section('content')
-    
+@section('content')  
+
    <section>
         <div class="container">
             <div class="row">
@@ -9,7 +9,25 @@
 			    <br/>
 				<br/>
 				<br/>
-								
+				
+				<h3 class="text-left">Spot Rentals / Adhocs</h3>
+				</br>
+				<div class="row ">
+					<div class="col-sm-6">
+						<img class="text-left img-responsive" src="{{ asset('assets/images/spotrental.png') }}">
+					</div>
+					<div class="col-sm-6">
+					<br/>
+						<p>We provide spot rentals and adhoc services at all available scales. </p>
+
+						<br/>
+						
+						<p>Please check our rentals section for more details on price and available vehicle types</p> 
+						
+						<br/>
+					</div>		
+				</div>
+
 				<h3 class="text-left">Employee Transportation services</h3>
 				</br>
 				<div class="row ">

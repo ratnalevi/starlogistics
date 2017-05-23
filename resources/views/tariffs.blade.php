@@ -33,7 +33,7 @@
 					</tr>
 					<tr>
 						<td rowspan="2"><h4>MID SIZE</h4></td>
-						<td><img src="images/tariff/1.png" class="img-responsive"/></td>
+						<td><img src="{{ asset('assets/images/tariff/1.png' ) }}" class="img-responsive"/></td>
 						<td>2300.00</td>
 						<td>1400.00</td>
 						<td>20.00</td>
@@ -44,7 +44,7 @@
 						<td>300 Kms.</td>
 					</tr>
 					<tr>
-						<td><img src="images/tariff/verito.png" class="img-responsive"/></td>
+						<td><img src="{{ asset('assets/images/tariff/verito.png' ) }}" class="img-responsive"/></td>
 						<td>2300.00</td>
 						<td>1400.00</td>
 						<td>20.00</td>
@@ -56,7 +56,7 @@
 					</tr>
 					<tr>
 						<td rowspan="2"><h4>COMPACT</h4></td>
-						<td><img src="images/tariff/etios.png" class="img-responsive"/></td>
+						<td><img src="{{ asset('assets/images/tariff/etios.png' ) }}" class="img-responsive"/></td>
 						<td>2500.00</td>
 						<td>1500.00</td>
 						<td>22.00</td>
@@ -67,7 +67,7 @@
 						<td>300 Kms.</td>
 					</tr>
 					<tr>
-						<td><img src="images/tariff/fordfiesta.png" class="img-responsive"/></td>
+						<td><img src="{{ asset('assets/images/tariff/fordfiesta.png' ) }}" class="img-responsive"/></td>
 						<td>2500.00</td>
 						<td>1500.00</td>
 						<td>22.00</td>
@@ -79,7 +79,7 @@
 					</tr>
 					<tr>
 						<td rowspan="5"><h4>MUV</h4></td>
-						<td><img src="images/tariff/5.png" class="img-responsive"/></td>
+						<td><img src="{{ asset('assets/images/tariff/5.png' ) }}" class="img-responsive"/></td>
 						<td>2700.00</td>
 						<td>1600.00</td>
 						<td>25.00</td>
@@ -90,7 +90,7 @@
 						<td>300 Kms.</td>
 					</tr>
 					<tr>
-						<td><img src="images/tariff/6.png" class="img-responsive"/></td>
+						<td><img src="{{ asset('assets/images/tariff/6.png' ) }}" class="img-responsive"/></td>
 						<td>3000.00</td>
 						<td>1900.00</td>
 						<td>27.00</td>
@@ -101,7 +101,7 @@
 						<td>300 Kms.</td>
 					</tr>
 					<tr>
-						<td><img src="images/tariff/7.png" class="img-responsive"/></td>
+						<td><img src="{{ asset('assets/images/tariff/7.png' ) }}" class="img-responsive"/></td>
 						<td>6000.00</td>
 						<td>4000.00</td>
 						<td>60.00</td>
@@ -112,7 +112,7 @@
 						<td>300 Kms.</td>
 					</tr>
 					<tr>
-						<td><img src="images/tariff/xc60.png" class="img-responsive"/></td>
+						<td><img src="{{ asset('assets/images/tariff/xc60.png' ) }}" class="img-responsive"/></td>
 						<td>6000.00</td>
 						<td>4000.00</td>
 						<td>60.00</td>
@@ -123,7 +123,7 @@
 						<td>300 Kms.</td>
 					</tr>
 					<tr>
-						<td><img src="images/tariff/isuzumu7.png" class="img-responsive"/></td>
+						<td><img src="{{ asset('assets/images/tariff/isuzumu7.png' ) }}" class="img-responsive"/></td>
 						<td>6000.00</td>
 						<td>4000.00</td>
 						<td>60.00</td>
@@ -135,7 +135,7 @@
 					</tr>
 					<tr>
 						<td rowspan="1"><h4>SUV</h4></td>
-						<td><img src="images/tariff/aq5.png" class="img-responsive"/></td>
+						<td><img src="{{ asset('assets/images/tariff/aq5.png' ) }}" class="img-responsive"/></td>
 						<td>11000.00</td>
 						<td>7000.00</td>
 						<td>100.00</td>
@@ -147,7 +147,7 @@
 					</tr>
 					<tr>
 						<td rowspan="2"><h4>PREMIUM</h4></td>
-						<td><img src="images/tariff/9.png" class="img-responsive"/></td>
+						<td><img src="{{ asset('assets/images/tariff/9.png' ) }}" class="img-responsive"/></td>
 						<td>4000.00</td>
 						<td>2500.00</td>
 						<td>37.00</td>
@@ -158,7 +158,7 @@
 						<td>300 Kms.</td>
 					</tr>
 					<tr>
-						<td><img src="images/tariff/10.png" class="img-responsive"/></td>
+						<td><img src="{{ asset('assets/images/tariff/10.png' ) }}" class="img-responsive"/></td>
 						<td>4000.00</td>
 						<td>2500.00</td>
 						<td>37.00</td>
@@ -170,7 +170,7 @@
 					</tr>
 					<tr>
 						<td nowrap rowspan="2"><h4>PREMIUM PLUS</h4></td>
-						<td><img src="images/tariff/11.png" class="img-responsive"/></td>
+						<td><img src="{{ asset('assets/images/tariff/11.png' ) }}" class="img-responsive"/></td>
 						<td>6000.00</td>
 						<td>4000.00</td>
 						<td>60.00</td>
@@ -181,7 +181,7 @@
 						<td>300 Kms.</td>
 					</tr>
 					<tr>
-					<td><img src="images/tariff/s60.png" class="img-responsive"/></td>
+					<td><img src="{{ asset('assets/images/tariff/s60.png' ) }}" class="img-responsive"/></td>
 						<td>6000.00</td>
 						<td>4000.00</td>
 						<td>60.00</td>
@@ -193,7 +193,7 @@
 					</tr>
 					<tr>
 						<td rowspan="6"><h4>LUXURY</h4></td>
-						<td><img src="images/tariff/12.png" class="img-responsive"/></td>
+						<td><img src="{{ asset('assets/images/tariff/12.png' ) }}" class="img-responsive"/></td>
 						<td>15000.00</td>
 						<td>10000.00</td>
 						<td>150.00</td>
@@ -204,7 +204,7 @@
 						<td>300 Kms.</td>
 					</tr>
 					<tr>
-						<td><img src="images/tariff/sbenz.png" class="img-responsive"/></td>
+						<td><img src="{{ asset('assets/images/tariff/sbenz.png' ) }}" class="img-responsive"/></td>
 						<td>12500.00</td>
 						<td>8500.00</td>
 						<td>125.00</td>
@@ -215,7 +215,7 @@
 						<td>300 Kms.</td>
 					</tr>
 					<tr>
-						<td><img src="images/tariff/14.png" class="img-responsive"/></td>
+						<td><img src="{{ asset('assets/images/tariff/14.png' ) }}" class="img-responsive"/></td>
 						<td>12500.00</td>
 						<td>8500.00</td>
 						<td>125.00</td>
@@ -226,7 +226,7 @@
 						<td>300 Kms.</td>
 					</tr>
 					<tr>
-						<td><img src="images/tariff/15.png" class="img-responsive"/></td>
+						<td><img src="{{ asset('assets/images/tariff/15.png' ) }}" class="img-responsive"/></td>
 						<td>11000.00</td>
 						<td>7000.00</td>
 						<td>100.00</td>
@@ -237,7 +237,7 @@
 						<td>300 Kms.</td>
 					</tr>
 					<tr>
-						<td><img src="images/tariff/16.png" class="img-responsive"/></td>
+						<td><img src="{{ asset('assets/images/tariff/16.png' ) }}" class="img-responsive"/></td>
 						<td>9000.00</td>
 						<td>6000.00</td>
 						<td>90.00</td>
@@ -248,7 +248,7 @@
 						<td>300 Kms.</td>
 					</tr>
 					<tr>
-						<td><img src="images/tariff/17.png" class="img-responsive"/></td>
+						<td><img src="{{ asset('assets/images/tariff/17.png' ) }}" class="img-responsive"/></td>
 						<td>9000.00</td>
 						<td>6000.00</td>
 						<td>90.00</td>
@@ -261,7 +261,7 @@
 			
 					<tr>
 						<td rowspan="4"><h4>COACHES</h4></td>
-						<td><img src="images/tariff/18.png" class="img-responsive"/></td>
+						<td><img src="{{ asset('assets/images/tariff/18.png' ) }}" class="img-responsive"/></td>
 						<td>8000.00</td>
 						<td>6500.00</td>
 						<td>90.00</td>
@@ -272,7 +272,7 @@
 						<td>300 Kms.</td>
 					</tr>
 					<tr>
-						<td><img src="images/tariff/19.png" class="img-responsive"/></td>
+						<td><img src="{{ asset('assets/images/tariff/19.png' ) }}" class="img-responsive"/></td>
 						<td>12000.00</td>
 						<td>12000.00</td>
 						<td>60.00</td>
@@ -283,7 +283,7 @@
 						<td>300 Kms.</td>
 					</tr>
 					<tr>
-						<td><img src="images/tariff/20.png" class="img-responsive"/></td>
+						<td><img src="{{ asset('assets/images/tariff/20.png' ) }}" class="img-responsive"/></td>
 						<td>13500.00</td>
 						<td>13500.00</td>
 						<td>65.00</td>
@@ -294,7 +294,7 @@
 						<td>300 Kms.</td>
 					</tr>
 					<tr>
-						<td><img src="images/tariff/21.png" class="img-responsive"/></td>
+						<td><img src="{{ asset('assets/images/tariff/21.png' ) }}" class="img-responsive"/></td>
 						<td>20000.00</td>
 						<td>20000.00</td>
 						<td>100.00</td>
@@ -311,6 +311,7 @@
 			 <div class="row">
 				<div class="col-lg-12">
 						<p>* Booking for more than 4 Hrs. or 40 Kms. will be considered for next slab</p>
+						<p>* Booking of all categories are subject to availability of the category and vehicle. Contact us in prior to know the availability</p>
 						<p><strong>Note:</strong>
 						<ol>
 							<li>Service Tax, VAT & any other Govt Tax as per Govt guidelines will be charged on the total bill.</li>
@@ -325,18 +326,9 @@
 							<li>If the booking is cancelled after the vehicle has left garage then cancellation charges shall be applicable.</li>
 							<li>Other Categories rates available on request.</li>
 							<li>Payment should be made within 7 days from the date of submission of the bill.</li>
-							<li>In case of any increase in the prices in the fuel, the following formula will be applicable:</li>
 						</ol>
-						<p class="text-center"><strong>R1 – R0 / 10</strong></p>
-						<p class="text-center">Where R1 denotes for New fuel Price<br/>
-						Where R0 denotes for Old fuel Price (Rs.54.59)<br/>
-						Where 10 denotes for the average per ltr.</p>
 				</div>
 			</div>
-			
-			<br/>
-			<br/>			
-				
     </section>
 
 @endsection
