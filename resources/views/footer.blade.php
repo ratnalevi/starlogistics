@@ -24,12 +24,12 @@
 
     <script src="{{ asset( 'assets/js/classie.js' ) }}"></script>
     <script src="{{ asset( 'assets/js/cbpAnimatedHeader.js' ) }}"></script>
-	<script src="{{ asset( 'assets/assets/js/jquery-1.11.1.js' ) }}"></script>
+	<script src="{{ asset( 'assets/js/jquery-1.11.1.js' ) }}"></script>
 
     <!-- REQUIRED BOOTSTRAP SCRIPTS -->
 
-    <script src="{{ asset( 'assets/assets/js/bootstrap.js' ) }}"></script>
-    <script src="{{ asset( 'assets/assets/js/custom.js' ) }}"></script>
+    <script src="{{ asset( 'assets/js/bootstrap.js' ) }}"></script>
+    <script src="{{ asset( 'assets/js/custom.js' ) }}"></script>
 
     <!-- CUSTOM SCRIPTS -->
 

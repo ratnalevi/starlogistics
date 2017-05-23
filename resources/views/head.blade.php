@@ -20,4 +20,4 @@
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 
 	<script type="text/javascript" src="{{ asset( 'assets/js/jquery.onImagesLoad.min.js' ) }}"></script>
-	<script type="text/javascript" src="{{ asset( 'assets/jquery.responsiveSlides.js' ) }}"></script>
+	<script type="text/javascript" src="{{ asset( 'assets/js/jquery.responsiveSlides.js' ) }}"></script>

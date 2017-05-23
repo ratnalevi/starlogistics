@@ -3,9 +3,9 @@
 @section('content')
 
 <div id="content">
-    <img src="images/sliderimg1.jpg">
-    <img src="images/sliderimg3.jpg">
-    <img src="images/sliderimg2.jpg">
+    <img src="{{ asset('assets/images/sliderimg1.jpg' ) }}">
+    <img src="{{ asset('assets/images/sliderimg3.jpg' ) }}">
+    <img src="{{ asset('assets/images/sliderimg2.jpg' ) }}">
 </div>
 
  	  <header>
