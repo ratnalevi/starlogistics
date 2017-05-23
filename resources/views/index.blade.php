@@ -4,11 +4,37 @@
 
 <div id="content">
     <img src="{{ asset('assets/images/sliderimg1.jpg' ) }}">
-    <img src="{{ asset('assets/images/sliderimg3.jpg' ) }}">
     <img src="{{ asset('assets/images/sliderimg2.jpg' ) }}">
+    <img src="{{ asset('assets/images/sliderimg3.jpg' ) }}">
 </div>
 
- 	  <header>
+<script type="text/javascript">
+	var $jq = jQuery.noConflict();
+
+	$jq(function(){
+		var p=$jq('#content').responsiveSlides({
+			height:1003,						// slides conteiner height
+			background:'#fff',				// background color and color of overlayer to fadeout on init
+			autoStart:true,					// boolean autostart
+			startDelay:0,					// start whit delay
+			effectInterval:5000,			// time to swap photo
+			effectTransition:1000,			// time effect
+			pagination:[
+				{
+					active:true,			// activate pagination
+					inner:true,				// pagination inside or aouside slides conteiner
+					position:'B_L', 		/* 											*/
+					margin:10, 				// pagination margin
+					dotStyle:'', 			// dot pagination class style
+					dotStyleHover:'', 		// dot pagination class hover style
+					dotStyleDisable:''		// dot pagination class disable style
+				}
+			]
+		});
+	});
+</script>
+
+ 	 <!--  <header>
         <div class="container">
             <div class="row ">
                <div class="col-sm-offset-1 col-sm-5 form-bg text-left">
@@ -55,6 +81,6 @@
             </div>
         </div>
     </header>
-
+ -->
 @endsection
 

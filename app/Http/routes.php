@@ -23,8 +23,8 @@ Route::get('/services', function () {
     return view('services');
 });
 
-Route::get('/tarrif', function () {
-    return view('tarrifs');
+Route::get('/tariffs', function () {
+    return view('tariffs');
 });
 
 Route::get('/contact', function () {
