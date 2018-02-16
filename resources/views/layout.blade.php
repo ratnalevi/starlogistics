@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html itemscope itemtype="http://www.schema.org/WebPage" lang="en">
+<html itemscope itemtype="https://www.schema.org/WebPage" lang="en">
   <head>
   @include('head')
   </head>

@@ -14,10 +14,10 @@
     <link href="{{ asset( 'assets/css/style.css' ) }}" rel="stylesheet">
     <link href="{{ asset( 'assets/font-awesome/css/font-awesome.min.css' ) }}" rel="stylesheet" type="text/css">
 
-    <link href="http://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
-    <link href="http://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css">
-	<link href="http://www.jqueryscript.net/css/jquerysctipttop.css" rel="stylesheet" type="text/css">
-	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css">
+	<link href="https://www.jqueryscript.net/css/jquerysctipttop.css" rel="stylesheet" type="text/css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 
 	<script type="text/javascript" src="{{ asset( 'assets/js/jquery.onImagesLoad.min.js' ) }}"></script>
 	<script type="text/javascript" src="{{ asset( 'assets/js/jquery.responsiveSlides.js' ) }}"></script>
